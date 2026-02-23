@@ -228,6 +228,8 @@ Antes de gerar a User Story final, você DEVE seguir este processo mental:
 
 ### 📸 Screenshots (Instruções)
 
+<img width="1671" height="870" alt="image" src="https://github.com/user-attachments/assets/f4cf8958-f594-4884-acfb-52b9c015a193" />
+
 Para gerar as evidências:
 
 1. **Execute o pipeline completo:**
